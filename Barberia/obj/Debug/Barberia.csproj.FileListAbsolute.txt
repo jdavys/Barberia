@@ -1,0 +1,31 @@
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\obj\Debug\Barberia.csprojAssemblyReference.cache
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\obj\Debug\Barberia.Form1.resources
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\obj\Debug\Barberia.Form2.resources
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\obj\Debug\Barberia.Properties.Resources.resources
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\obj\Debug\Barberia.csproj.GenerateResource.cache
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\obj\Debug\Barberia.csproj.CoreCompileInputs.cache
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\bin\Debug\Barberia.exe.config
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\bin\Debug\Barberia.exe
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\bin\Debug\Barberia.pdb
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\bin\Debug\EntityFramework.dll
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\bin\Debug\EntityFramework.xml
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\obj\Debug\Barberia.csproj.CopyComplete
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\obj\Debug\Barberia.exe
+C:\Users\Manrrique Herrera\Source\Repos\Barberia\Barberia\obj\Debug\Barberia.pdb
+C:\Users\jdavys\Downloads\Barberia\Barberia\bin\Debug\Barberia.exe.config
+C:\Users\jdavys\Downloads\Barberia\Barberia\bin\Debug\Barberia.exe
+C:\Users\jdavys\Downloads\Barberia\Barberia\bin\Debug\Barberia.pdb
+C:\Users\jdavys\Downloads\Barberia\Barberia\bin\Debug\EntityFramework.dll
+C:\Users\jdavys\Downloads\Barberia\Barberia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jdavys\Downloads\Barberia\Barberia\bin\Debug\EntityFramework.xml
+C:\Users\jdavys\Downloads\Barberia\Barberia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jdavys\Downloads\Barberia\Barberia\obj\Debug\Barberia.csprojResolveAssemblyReference.cache
+C:\Users\jdavys\Downloads\Barberia\Barberia\obj\Debug\Barberia.Form1.resources
+C:\Users\jdavys\Downloads\Barberia\Barberia\obj\Debug\Barberia.Form2.resources
+C:\Users\jdavys\Downloads\Barberia\Barberia\obj\Debug\Barberia.Properties.Resources.resources
+C:\Users\jdavys\Downloads\Barberia\Barberia\obj\Debug\Barberia.csproj.GenerateResource.Cache
+C:\Users\jdavys\Downloads\Barberia\Barberia\obj\Debug\Barberia.csproj.CoreCompileInputs.cache
+C:\Users\jdavys\Downloads\Barberia\Barberia\obj\Debug\Barberia.exe
+C:\Users\jdavys\Downloads\Barberia\Barberia\obj\Debug\Barberia.pdb
